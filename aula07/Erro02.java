@@ -1,7 +1,0 @@
-class Erro02 {
-    public static void main(String[] args) {
-        int cont = 0;
-
-        System.out.println("O valor de cont é: " + cont);
-    }
-}
