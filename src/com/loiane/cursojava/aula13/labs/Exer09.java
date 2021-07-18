@@ -14,6 +14,6 @@ public class Exer09 {
 
         double celsius = (5 * (farenheit - 32) / 9);
 
-        System.out.println("A temperatura " + farenheit +"F é igual a " + celsius + "C");
+        System.out.println("A temperatura " + farenheit +" F é igual a " + celsius + "C ");
     }
 }
