@@ -12,6 +12,8 @@ eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/curso-java-basic
 
 *.dat
 
+*.class
+
 eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/curso-java-basico/org.eclipse.jdt.core/state.dat
 
 eclipse/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps
