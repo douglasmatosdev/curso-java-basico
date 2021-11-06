@@ -1,3 +1,5 @@
+package com.douglas.cursojava.aula07;
+
 class Erro03 {
 
     // O método main foi definido com a letra inicial maiúscula

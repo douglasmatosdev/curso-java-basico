@@ -1,3 +1,5 @@
+package com.douglas.cursojava.aula07;
+
 class Erro01 { // O nome da Classe de ser igual ao nome do Arquivo
 
     public static void main(String[] args) { // Abrir e sempre fechar o bloco de chaves

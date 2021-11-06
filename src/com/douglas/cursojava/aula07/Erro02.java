@@ -1,3 +1,5 @@
+package com.douglas.cursojava.aula07;
+
 class Erro02 {
     public static void main(String[] args) {
 
