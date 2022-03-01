@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * 
  * @author doug
- *	Faça um programa que peça dois números e imprima a soma
+ *	Description: Faça um programa que peça dois números e imprima a soma
  */
 
 public class Exe03 {
